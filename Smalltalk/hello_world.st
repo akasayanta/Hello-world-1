@@ -1,1 +1,1 @@
-'Hello World' printNl
+'Hello World' print
